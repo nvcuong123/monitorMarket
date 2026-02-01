@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfront_end=self.webpackChunkfront_end||[]).push([[687],{17687:function(n,e,r){r.r(e);var t=r(80184);e.default=function(){return(0,t.jsx)(t.Fragment,{children:(0,t.jsx)("h1",{children:"Binance Heatmap"})})}}}]);
+//# sourceMappingURL=687.951a4373.chunk.js.map

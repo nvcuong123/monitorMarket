@@ -1,0 +1,229 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 40px;
+  padding: 0 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  justify-items: center;
+  font-size: calc(10px + 1vmin);
+  font-weight: 700;
+  color: white;
+}
+.header-right {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-gap {
+  margin-left: 5px;
+}
+
+.grid-container {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-auto-rows: 1fr;
+  gap: 0px;
+  background-color: #367d6b;
+  height: 88vh;
+  width: 100%;
+  place-items: stretch;
+}
+
+.grid-container > .grid-item {
+  background-color: whitesmoke;
+  border: 1px solid black;
+  border-radius: 4px;
+  /* text-align: center; */
+  font-size: calc(10px + 0.5vmin);
+  padding: 0px;
+  height: 44vh;
+  width: 100%;
+}
+
+.indicator-container {
+  height: 100%;
+  /* min-height: 90%; */
+  width: 100%;
+}
+.indicator-label {
+  height: 10%;
+  background-color: #f1d140;
+  border-radius: 4px;
+  font-weight: 800;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  justify-items: center;
+}
+.indicator-body {
+  height: 90%;
+  width: 100%;
+  padding: 2px;
+}
+.responsive-canvas {
+  background-color: bisque;
+  position: relative;
+  width: 48vw;
+  height: 43vh;
+}
+.table-responsive {
+  height: 100%;
+  width: 100%;
+}
+
+.table-header {
+  position: sticky;
+  top: 0;
+}
+
+.dropdown-select {
+  height: 45vh;
+  overflow: scroll;
+}
+
+.table-text {
+  color: aqua;
+}
+
+.column {
+  float: left;
+  width: 30%;
+  font-size: x-small;
+}
+/* .heatmap-container {
+  width: 100%;
+  height: 100vw;
+} */
+.heatmap-chart {
+  width: 100%;
+  /* padding: 4px; */
+  border-radius: 10px;
+  background-color: #f1d140;
+}
+@media (min-width: 992px) {
+  .heatmap-chart {
+    width: 49%;
+  }
+}
+
+@media (max-width: 992px) {
+  #signals-table {
+    display: none !important;
+  }
+}
+@media (min-width: 992px) {
+  #signals-cards {
+    display: none !important;
+  }
+}
+@media (max-width: 1200px) {
+  #alert-symbol-table {
+    display: none !important;
+  }
+}
+@media (min-width: 1200px) {
+  #alert-symbol-cards {
+    display: none !important;
+  }
+}
+
+@media (max-width: 1200px) {
+  #positions-table {
+    display: none !important;
+  }
+}
+@media (min-width: 1200px) {
+  #positions-card {
+    display: none !important;
+  }
+}
+
+@media (max-width: 1200px) {
+  #orders-table {
+    display: none !important;
+  }
+}
+@media (min-width: 1200px) {
+  #orders-card {
+    display: none !important;
+  }
+}
+
+.color-pattern {
+  width: 12px;
+  height: 12px;
+}
+
+.custom-link {
+  text-decoration: none;
+  color: white;
+}
+
+.custom-link:hover {
+  cursor: pointer;
+  color: white;
+}
+
+.custom-xlink {
+  text-decoration: underline;
+}
+.custom-xlink:hover {
+  cursor: pointer;
+}
+
+.shrink-to-fit {
+  flex-shrink: 0;
+}
+
+/* Add this CSS to your style.scss file */
+.notification-panel {
+  position: fixed;
+  bottom: 20px; /* Adjust as needed */
+  right: 20px; /* Adjust as needed */
+  max-width: 600px; /* Adjust as needed */
+  /* background-color: #d5d3d3; */
+  background-color: transparent;
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+  padding: 5px;
+  z-index: 1000; /* Ensure it's above other content */
+  overflow-y: auto; /* Enable vertical scrolling if content exceeds panel height */
+  max-height: 80vh; /* Set maximum height to 80% of viewport height */
+  display: flex; /* Use flexbox to position the button and notifList */
+  align-items: flex-end; /* Align children to the end (bottom right) */
+}
+.notification-panel > div {
+  overflow-y: auto; /* Enable vertical scrolling for notifList */
+  max-height: calc(80vh - 40px); /* Adjust to account for the button's height */
+}
+.notification-panel button {
+  margin-top: auto; /* Push the button to the bottom */
+}
+
+.notification-panel .bot-alert {
+  animation: wipeOutRight 0.5s forwards;
+}
+
+/* Define the keyframes for the wipe-out animation */
+/* Add this CSS to your stylesheets */
+/* You can adjust the animation properties and distance as needed */
+@keyframes wipeOutRight {
+  0% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+}

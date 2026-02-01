@@ -1,0 +1,52 @@
+{
+  "name": "tr7-crypto-trading-bot",
+  "version": "1.0.0",
+  "description": "back-end resource for tr7-crypto-trading-bot",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "rest",
+    "api"
+  ],
+  "author": "sitruong-tr7",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "bcryptjs": "^2.4.3",
+    "binance-api-node": "^0.12.3",
+    "ccxt": "^2.9.16",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "cron-parser": "^2.7.3",
+    "dayjs": "^1.11.10",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.2",
+    "fetch-blob": "^3.2.0",
+    "gate-api": "^5.60.1",
+    "helmet": "^6.1.2",
+    "jsonwebtoken": "^9.0.0",
+    "lodash": "^4.17.21",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.2.2",
+    "morgan": "^1.10.0",
+    "node-binance-api": "^0.13.1",
+    "node-schedule": "^2.1.1",
+    "path": "^0.12.7",
+    "socket.io": "^4.6.1",
+    "socket.io-parser": "^4.2.3",
+    "technicalindicators": "^3.1.0",
+    "url": "^0.11.0",
+    "uuid": "^9.0.0",
+    "ws": "^8.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}

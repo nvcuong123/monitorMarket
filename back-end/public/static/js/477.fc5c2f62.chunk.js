@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfront_end=self.webpackChunkfront_end||[]).push([[477],{9477:function(n,e,r){r.r(e);var s=r(184);e.default=function(){return(0,s.jsx)(s.Fragment,{children:(0,s.jsx)("h1",{children:"Analysis On-Chain"})})}}}]);
+//# sourceMappingURL=477.fc5c2f62.chunk.js.map

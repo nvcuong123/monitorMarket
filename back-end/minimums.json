@@ -1,0 +1,4106 @@
+{
+  "BTCUSDT": {
+    "status": "TRADING",
+    "minPrice": "282.70",
+    "maxPrice": "876544.80",
+    "tickSize": "0.10",
+    "stepSize": "0.001",
+    "minQty": "0.001",
+    "maxQty": "1000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ETHUSDT": {
+    "status": "TRADING",
+    "minPrice": "16.76",
+    "maxPrice": "85514.26",
+    "tickSize": "0.01",
+    "stepSize": "0.001",
+    "minQty": "0.001",
+    "maxQty": "10000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "BCHUSDT": {
+    "status": "TRADING",
+    "minPrice": "3.67",
+    "maxPrice": "6130.66",
+    "tickSize": "0.01",
+    "stepSize": "0.001",
+    "minQty": "0.001",
+    "maxQty": "10000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "XRPUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0117",
+    "maxPrice": "19.6050",
+    "tickSize": "0.0001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "EOSUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.036",
+    "maxPrice": "61.400",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "LTCUSDT": {
+    "status": "TRADING",
+    "minPrice": "2.80",
+    "maxPrice": "4672.32",
+    "tickSize": "0.01",
+    "stepSize": "0.001",
+    "minQty": "0.001",
+    "maxQty": "10000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "TRXUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00212",
+    "maxPrice": "3.53444",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ETCUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.704",
+    "maxPrice": "1174.650",
+    "tickSize": "0.001",
+    "stepSize": "0.01",
+    "minQty": "0.01",
+    "maxQty": "100000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "LINKUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.233",
+    "maxPrice": "389.118",
+    "tickSize": "0.001",
+    "stepSize": "0.01",
+    "minQty": "0.01",
+    "maxQty": "100000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "XLMUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00284",
+    "maxPrice": "4.74450",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ADAUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.01210",
+    "maxPrice": "20.29760",
+    "tickSize": "0.00010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "DASHUSDT": {
+    "status": "TRADING",
+    "minPrice": "2.13",
+    "maxPrice": "3550.94",
+    "tickSize": "0.01",
+    "stepSize": "0.001",
+    "minQty": "0.001",
+    "maxQty": "10000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ZECUSDT": {
+    "status": "TRADING",
+    "minPrice": "1.46",
+    "maxPrice": "2445.24",
+    "tickSize": "0.01",
+    "stepSize": "0.001",
+    "minQty": "0.001",
+    "maxQty": "10000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "XTZUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.037",
+    "maxPrice": "62.150",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "10000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "BNBUSDT": {
+    "status": "TRADING",
+    "minPrice": "9.548",
+    "maxPrice": "15914.889",
+    "tickSize": "0.001",
+    "stepSize": "0.01",
+    "minQty": "0.01",
+    "maxQty": "10000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ATOMUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.339",
+    "maxPrice": "566.086",
+    "tickSize": "0.001",
+    "stepSize": "0.01",
+    "minQty": "0.01",
+    "maxQty": "10000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ONTUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0083",
+    "maxPrice": "13.8978",
+    "tickSize": "0.0001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "IOTAUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0077",
+    "maxPrice": "12.8692",
+    "tickSize": "0.0001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "BATUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0076",
+    "maxPrice": "12.6899",
+    "tickSize": "0.0001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "VETUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.000920",
+    "maxPrice": "1.538720",
+    "tickSize": "0.000010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "NEOUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.732",
+    "maxPrice": "1220.435",
+    "tickSize": "0.001",
+    "stepSize": "0.01",
+    "minQty": "0.01",
+    "maxQty": "100000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "QTUMUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.113",
+    "maxPrice": "189.594",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "IOSTUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.000396",
+    "maxPrice": "0.661400",
+    "tickSize": "0.000001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "THETAUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0370",
+    "maxPrice": "62.0150",
+    "tickSize": "0.0010",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ALGOUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0054",
+    "maxPrice": "9.1332",
+    "tickSize": "0.0001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ZILUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00098",
+    "maxPrice": "1.63450",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "KNCUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.02620",
+    "maxPrice": "43.68750",
+    "tickSize": "0.00010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ZRXUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0079",
+    "maxPrice": "13.2541",
+    "tickSize": "0.0001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "COMPUSDT": {
+    "status": "TRADING",
+    "minPrice": "1.21",
+    "maxPrice": "2020.08",
+    "tickSize": "0.01",
+    "stepSize": "0.001",
+    "minQty": "0.001",
+    "maxQty": "10000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "OMGUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0550",
+    "maxPrice": "92.5910",
+    "tickSize": "0.0010",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "DOGEUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.002600",
+    "maxPrice": "4.333560",
+    "tickSize": "0.000010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "SXPUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0104",
+    "maxPrice": "17.4211",
+    "tickSize": "0.0001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "KAVAUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0297",
+    "maxPrice": "49.5250",
+    "tickSize": "0.0001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "BANDUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0529",
+    "maxPrice": "88.2995",
+    "tickSize": "0.0001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "RLCUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0640",
+    "maxPrice": "106.7243",
+    "tickSize": "0.0001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "WAVESUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0850",
+    "maxPrice": "143.1650",
+    "tickSize": "0.0010",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "MKRUSDT": {
+    "status": "TRADING",
+    "minPrice": "23",
+    "maxPrice": "38385",
+    "tickSize": "0.10",
+    "stepSize": "0.001",
+    "minQty": "0.001",
+    "maxQty": "10000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "SNXUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.079",
+    "maxPrice": "132.131",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "DOTUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.219",
+    "maxPrice": "366.038",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "DEFIUSDT": {
+    "status": "TRADING",
+    "minPrice": "21.2",
+    "maxPrice": "35409.1",
+    "tickSize": "0.1",
+    "stepSize": "0.001",
+    "minQty": "0.001",
+    "maxQty": "10000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "YFIUSDT": {
+    "status": "TRADING",
+    "minPrice": "222.9",
+    "maxPrice": "371600",
+    "tickSize": "0.1",
+    "stepSize": "0.001",
+    "minQty": "0.001",
+    "maxQty": "500",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "BALUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.193",
+    "maxPrice": "322.190",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "CRVUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.028",
+    "maxPrice": "47.368",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "TRBUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.890",
+    "maxPrice": "1488.050",
+    "tickSize": "0.010",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "RUNEUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0530",
+    "maxPrice": "89.5000",
+    "tickSize": "0.0010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "SUSHIUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0430",
+    "maxPrice": "72.3500",
+    "tickSize": "0.0010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "SRMUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.0920",
+    "maxPrice": "153.5750",
+    "tickSize": "0.0010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "EGLDUSDT": {
+    "status": "TRADING",
+    "minPrice": "1.560",
+    "maxPrice": "2615.350",
+    "tickSize": "0.010",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "SOLUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.7500",
+    "maxPrice": "1261.3700",
+    "tickSize": "0.0100",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ICXUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.0304",
+    "maxPrice": "50.8000",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "STORJUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0137",
+    "maxPrice": "22.8581",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "UNIUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.2130",
+    "maxPrice": "355.4590",
+    "tickSize": "0.0010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "AVAXUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.5500",
+    "maxPrice": "923.9500",
+    "tickSize": "0.0100",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "FTMUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.016200",
+    "maxPrice": "27.126700",
+    "tickSize": "0.000100",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "HNTUSDT": {
+    "status": "SETTLING",
+    "minPrice": "0.0930",
+    "maxPrice": "155.4000",
+    "tickSize": "0.0010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ENJUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.01500",
+    "maxPrice": "25.05290",
+    "tickSize": "0.00010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "FLMUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0040",
+    "maxPrice": "6.7100",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "TOMOUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0158",
+    "maxPrice": "26.4244",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "RENUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00292",
+    "maxPrice": "4.88045",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "KSMUSDT": {
+    "status": "TRADING",
+    "minPrice": "1.320",
+    "maxPrice": "2216",
+    "tickSize": "0.010",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "NEARUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0770",
+    "maxPrice": "128.6410",
+    "tickSize": "0.0010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "AAVEUSDT": {
+    "status": "TRADING",
+    "minPrice": "2.080",
+    "maxPrice": "3472.100",
+    "tickSize": "0.010",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "FILUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.235",
+    "maxPrice": "392.250",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "RSRUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.000774",
+    "maxPrice": "1.290556",
+    "tickSize": "0.000001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "LRCUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.01270",
+    "maxPrice": "21.26090",
+    "tickSize": "0.00010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "MATICUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.04250",
+    "maxPrice": "70.91500",
+    "tickSize": "0.00010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "OCEANUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.01465",
+    "maxPrice": "24.42565",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "BELUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.03860",
+    "maxPrice": "64.44270",
+    "tickSize": "0.00010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "CTKUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.04300",
+    "maxPrice": "72.19700",
+    "tickSize": "0.00010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "AXSUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.2450",
+    "maxPrice": "409.1540",
+    "tickSize": "0.0010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ALPHAUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.01680",
+    "maxPrice": "28",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ZENUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.420",
+    "maxPrice": "700.400",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "SKLUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00170",
+    "maxPrice": "2.84912",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "GRTUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00523",
+    "maxPrice": "8.72000",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "BNTUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.0954",
+    "maxPrice": "159.1426",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "1INCHUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0144",
+    "maxPrice": "24.0117",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "UNFIUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.212",
+    "maxPrice": "354.100",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "BTCBUSD": {
+    "status": "TRADING",
+    "minPrice": "848.69",
+    "maxPrice": "1414486.40",
+    "tickSize": "0.01",
+    "stepSize": "0.001",
+    "minQty": "0.001",
+    "maxQty": "12",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "CHZUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00386",
+    "maxPrice": "6.43421",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "SANDUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.02380",
+    "maxPrice": "39.68930",
+    "tickSize": "0.00010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ANKRUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.000930",
+    "maxPrice": "1.561120",
+    "tickSize": "0.000010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "LITUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.045",
+    "maxPrice": "75.569",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "REEFUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.000109",
+    "maxPrice": "0.182942",
+    "tickSize": "0.000001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "RVNUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.00280",
+    "maxPrice": "4.67471",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "SFPUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.0320",
+    "maxPrice": "53.3950",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "XEMUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.0035",
+    "maxPrice": "5.8462",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "BTCSTUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.668",
+    "maxPrice": "1000000",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "COTIUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00261",
+    "maxPrice": "4.36341",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "CHRUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0048",
+    "maxPrice": "8.0926",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "MANAUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0214",
+    "maxPrice": "35.7100",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ALICEUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.046",
+    "maxPrice": "78.276",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "HBARUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.00841",
+    "maxPrice": "14.02950",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ONEUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00079",
+    "maxPrice": "1.33000",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "LINAUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00043",
+    "maxPrice": "0.72800",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "STMXUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00021",
+    "maxPrice": "0.35400",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "DENTUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.000039",
+    "maxPrice": "0.065996",
+    "tickSize": "0.000001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "CELRUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00082",
+    "maxPrice": "1.37664",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "HOTUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.000068",
+    "maxPrice": "0.113450",
+    "tickSize": "0.000001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "MTLUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0436",
+    "maxPrice": "72.7546",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "OGNUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0045",
+    "maxPrice": "7.6100",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "NKNUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.00860",
+    "maxPrice": "14.34653",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "DGBUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.00087",
+    "maxPrice": "1.45450",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "1000SHIBUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.000308",
+    "maxPrice": "0.513566",
+    "tickSize": "0.000001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "BAKEUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.0001",
+    "maxPrice": "47.3794",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "GTCUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.346",
+    "maxPrice": "577.250",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ETHBUSD": {
+    "status": "TRADING",
+    "minPrice": "50.31",
+    "maxPrice": "83862.79",
+    "tickSize": "0.01",
+    "stepSize": "0.001",
+    "minQty": "0.001",
+    "maxQty": "10000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "BTCDOMUSDT": {
+    "status": "TRADING",
+    "minPrice": "46.1",
+    "maxPrice": "76960.9",
+    "tickSize": "0.1",
+    "stepSize": "0.001",
+    "minQty": "0.001",
+    "maxQty": "10000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "MASKUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.1210",
+    "maxPrice": "202.5500",
+    "tickSize": "0.0010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "BNBBUSD": {
+    "status": "TRADING",
+    "minPrice": "9.550",
+    "maxPrice": "15923.490",
+    "tickSize": "0.010",
+    "stepSize": "0.01",
+    "minQty": "0.01",
+    "maxQty": "100000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ADABUSD": {
+    "status": "TRADING",
+    "minPrice": "0.01210",
+    "maxPrice": "20.30470",
+    "tickSize": "0.00010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "DOGEBUSD": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.005120",
+    "maxPrice": "8.534240",
+    "tickSize": "0.000010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "XRPBUSD": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.0229",
+    "maxPrice": "38.2716",
+    "tickSize": "0.0001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "IOTXUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00098",
+    "maxPrice": "1.63550",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "AUDIOUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0094",
+    "maxPrice": "15.7205",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "C98USDT": {
+    "status": "TRADING",
+    "minPrice": "0.0074",
+    "maxPrice": "12.3828",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ATAUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0048",
+    "maxPrice": "8.0300",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "SOLBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.7500",
+    "maxPrice": "1259.1400",
+    "tickSize": "0.0100",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "DYDXUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.083",
+    "maxPrice": "138.983",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "1000XECUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00087",
+    "maxPrice": "1.45824",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "GALAUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00140",
+    "maxPrice": "2.34380",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "CELOUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.018",
+    "maxPrice": "31.164",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ARUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.233",
+    "maxPrice": "389.095",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "KLAYUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0090",
+    "maxPrice": "15.0200",
+    "tickSize": "0.0001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ARPAUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00120",
+    "maxPrice": "2.01247",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "CTSIUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.0189",
+    "maxPrice": "31.5954",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "LPTUSDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "1.059",
+    "maxPrice": "1765.155",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ENSUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.498",
+    "maxPrice": "831.078",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "PEOPLEUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00086",
+    "maxPrice": "2000",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ANTUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.098",
+    "maxPrice": "164.439",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ROSEUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00236",
+    "maxPrice": "3.93400",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "DUSKUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00660",
+    "maxPrice": "11.00368",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "FLOWUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.039",
+    "maxPrice": "66.403",
+    "tickSize": "0.001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "IMXUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0303",
+    "maxPrice": "50.5451",
+    "tickSize": "0.0001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "API3USDT": {
+    "status": "TRADING",
+    "minPrice": "0.0460",
+    "maxPrice": "77.7450",
+    "tickSize": "0.0010",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "GMTUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.01310",
+    "maxPrice": "21.98470",
+    "tickSize": "0.00010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "APEUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.1210",
+    "maxPrice": "202.1360",
+    "tickSize": "0.0010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "WOOUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.00749",
+    "maxPrice": "12.48550",
+    "tickSize": "0.00001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "JASMYUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.000210",
+    "maxPrice": "100",
+    "tickSize": "0.000010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "DARUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0071",
+    "maxPrice": "11.8787",
+    "tickSize": "0.0001",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "GALUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.07020",
+    "maxPrice": "117.14000",
+    "tickSize": "0.00010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "APEBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.1210000",
+    "maxPrice": "202.2480000",
+    "tickSize": "0.0010000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "TRXBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.0021200",
+    "maxPrice": "200",
+    "tickSize": "0.0000010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "100000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "GALABUSD": {
+    "status": "TRADING",
+    "minPrice": "0.0014060",
+    "maxPrice": "200",
+    "tickSize": "0.0000010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "100000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "FTMBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.0162000",
+    "maxPrice": "200",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "GALBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.0700000",
+    "maxPrice": "117.1550000",
+    "tickSize": "0.0010000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ANCBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.0008600",
+    "maxPrice": "1.4360300",
+    "tickSize": "0.0000100",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "1000LUNCBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.0032000",
+    "maxPrice": "5.3648000",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "LUNA2BUSD": {
+    "status": "SETTLING",
+    "minPrice": "0.0548000",
+    "maxPrice": "91.3682000",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "100000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "OPUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0748000",
+    "maxPrice": "200",
+    "tickSize": "0.0001000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "DOTBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.2190000",
+    "maxPrice": "200",
+    "tickSize": "0.0010000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ICPBUSD": {
+    "status": "SETTLING",
+    "minPrice": "0.2080000",
+    "maxPrice": "346.9820000",
+    "tickSize": "0.0010000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "WAVEBUSD": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.0010000",
+    "maxPrice": "100000",
+    "tickSize": "0.0010000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "LINKBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.2330000",
+    "maxPrice": "200",
+    "tickSize": "0.0010000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "WAVESBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.0850000",
+    "maxPrice": "143.2770000",
+    "tickSize": "0.0010000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "XMRUSDT": {
+    "status": "TRADING",
+    "minPrice": "4.836",
+    "maxPrice": "8060.080",
+    "tickSize": "0.001",
+    "stepSize": "0.001",
+    "minQty": "0.001",
+    "maxQty": "100000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "LTCBUSD": {
+    "status": "TRADING",
+    "minPrice": "2.800000",
+    "maxPrice": "2100",
+    "tickSize": "0.010000",
+    "stepSize": "0.10",
+    "minQty": "0.10",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "SANDBUSD": {
+    "status": "SETTLING",
+    "minPrice": "0.0230000",
+    "maxPrice": "39.7000000",
+    "tickSize": "0.0010000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "MATICBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.0425000",
+    "maxPrice": "200",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "FILBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.2350000",
+    "maxPrice": "200",
+    "tickSize": "0.0010000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "LEVERBUSD": {
+    "status": "SETTLING",
+    "minPrice": "0.0000848",
+    "maxPrice": "0.1414605",
+    "tickSize": "0.0000001",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "1000SHIBBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.0003080",
+    "maxPrice": "0.5137490",
+    "tickSize": "0.0000010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "LDOBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.083300",
+    "maxPrice": "2000",
+    "tickSize": "0.000100",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "UNIBUSD": {
+    "status": "SETTLING",
+    "minPrice": "0.213000",
+    "maxPrice": "355.601000",
+    "tickSize": "0.001000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "AUCTIONBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.1640000",
+    "maxPrice": "273.5200000",
+    "tickSize": "0.0010000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "INJUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.1280000",
+    "maxPrice": "2000",
+    "tickSize": "0.0010000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "STGUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0330000",
+    "maxPrice": "200",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "SPELLUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0000274",
+    "maxPrice": "100",
+    "tickSize": "0.0000001",
+    "stepSize": "1",
+    "minQty": "100",
+    "maxQty": "80000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "1000LUNCUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0032000",
+    "maxPrice": "5.3838000",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "LUNA2USDT": {
+    "status": "TRADING",
+    "minPrice": "0.0548000",
+    "maxPrice": "200",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "AMBBUSD": {
+    "status": "SETTLING",
+    "minPrice": "0.0004130",
+    "maxPrice": "0.6885580",
+    "tickSize": "0.0000010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "50000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "LDOUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.083300",
+    "maxPrice": "2000",
+    "tickSize": "0.000100",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "100000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "CVXUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.195000",
+    "maxPrice": "2000",
+    "tickSize": "0.001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "100000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ICP2USDT": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.0001",
+    "maxPrice": "100000",
+    "tickSize": "0.0001",
+    "stepSize": "0.01",
+    "minQty": "0",
+    "maxQty": "100000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "FOOTBALLUSDT": {
+    "status": "TRADING",
+    "minPrice": "18.77000",
+    "maxPrice": "20000",
+    "tickSize": "0.01000",
+    "stepSize": "0.01",
+    "minQty": "0.01",
+    "maxQty": "10000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "APTUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.30500",
+    "maxPrice": "509.60000",
+    "tickSize": "0.00100",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "QNTUSDT": {
+    "status": "TRADING",
+    "minPrice": "4.140000",
+    "maxPrice": "2000",
+    "tickSize": "0.010000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "APTBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.30600",
+    "maxPrice": "510.05300",
+    "tickSize": "0.00100",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "BLUEBIRDUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.28900",
+    "maxPrice": "20000",
+    "tickSize": "0.00100",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "AGIXBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.0102000",
+    "maxPrice": "17.0118000",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "FXSUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.315000",
+    "maxPrice": "2000",
+    "tickSize": "0.001000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "HOOKUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.076000",
+    "maxPrice": "2000",
+    "tickSize": "0.001000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "MAGICUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.057400",
+    "maxPrice": "2000",
+    "tickSize": "0.000100",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "TUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0012500",
+    "maxPrice": "200",
+    "tickSize": "0.0000100",
+    "stepSize": "1",
+    "minQty": "0",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "RNDRUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.052600",
+    "maxPrice": "2000",
+    "tickSize": "0.000100",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "HIGHUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.116000",
+    "maxPrice": "2000",
+    "tickSize": "0.001000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "MINAUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0300000",
+    "maxPrice": "200",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ASTRUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0018500",
+    "maxPrice": "3.0955000",
+    "tickSize": "0.0000100",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "PHBUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0438000",
+    "maxPrice": "200",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "AGIXUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0102000",
+    "maxPrice": "17.0720000",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "FETUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0145000",
+    "maxPrice": "200",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "GMXUSDT": {
+    "status": "TRADING",
+    "minPrice": "2.310000",
+    "maxPrice": "2000",
+    "tickSize": "0.010000",
+    "stepSize": "0.01",
+    "minQty": "0.01",
+    "maxQty": "100000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "CFXUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0098000",
+    "maxPrice": "200",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "STXUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0196000",
+    "maxPrice": "200",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "COCOSUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.053000",
+    "maxPrice": "2000",
+    "tickSize": "0.001000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "BNXUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.017000",
+    "maxPrice": "2000",
+    "tickSize": "0.001000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ACHUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0009700",
+    "maxPrice": "1.6298100",
+    "tickSize": "0.0000100",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "SSVUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.010000",
+    "maxPrice": "2000",
+    "tickSize": "0.010000",
+    "stepSize": "0.01",
+    "minQty": "0.01",
+    "maxQty": "100000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "CKBUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0001210",
+    "maxPrice": "100",
+    "tickSize": "0.0000010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "PERPUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.000100",
+    "maxPrice": "2000",
+    "tickSize": "0.000100",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "LQTYUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.000100",
+    "maxPrice": "2000",
+    "tickSize": "0.000100",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "USDCUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0000100",
+    "maxPrice": "200",
+    "tickSize": "0.0000100",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ARBUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.042900",
+    "maxPrice": "71.642400",
+    "tickSize": "0.000100",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "IDUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0001000",
+    "maxPrice": "200",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "IDBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.0001000",
+    "maxPrice": "2000",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ARBBUSD": {
+    "status": "TRADING",
+    "minPrice": "0.038200",
+    "maxPrice": "63.691000",
+    "tickSize": "0.000100",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "BTCUSDT_230630": {
+    "status": "TRADING",
+    "minPrice": "848.2",
+    "maxPrice": "1413782",
+    "tickSize": "0.1",
+    "stepSize": "0.001",
+    "minQty": "0.001",
+    "maxQty": "500",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ETHUSDT_230630": {
+    "status": "TRADING",
+    "minPrice": "41.10",
+    "maxPrice": "100000",
+    "tickSize": "0.01",
+    "stepSize": "0.001",
+    "minQty": "0.001",
+    "maxQty": "10000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "JOEUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0001000",
+    "maxPrice": "200",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "AMB": {
+    "status": "PENDING_TRADING",
+    "minPrice": "0.0000100",
+    "maxPrice": "2000",
+    "tickSize": "0.0000100",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "AMBUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0004000",
+    "maxPrice": "0.6689200",
+    "tickSize": "0.0000100",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "LEVERUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0000010",
+    "maxPrice": "100",
+    "tickSize": "0.0000010",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "TRUUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0000100",
+    "maxPrice": "200",
+    "tickSize": "0.0000100",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "RDNTUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0001000",
+    "maxPrice": "200",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "ETHBTC": {
+    "status": "TRADING",
+    "minPrice": "0.000010",
+    "maxPrice": "200",
+    "tickSize": "0.000010",
+    "stepSize": "0.01",
+    "minQty": "0.01",
+    "maxQty": "10000",
+    "minNotional": "0.001",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "HFTUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.0001000",
+    "maxPrice": "200",
+    "tickSize": "0.0001000",
+    "stepSize": "1",
+    "minQty": "1",
+    "maxQty": "10000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  },
+  "XVSUSDT": {
+    "status": "TRADING",
+    "minPrice": "0.001000",
+    "maxPrice": "2000",
+    "tickSize": "0.001000",
+    "stepSize": "0.1",
+    "minQty": "0.1",
+    "maxQty": "1000000",
+    "minNotional": "5.0",
+    "orderTypes": [
+      "LIMIT",
+      "MARKET",
+      "STOP",
+      "STOP_MARKET",
+      "TAKE_PROFIT",
+      "TAKE_PROFIT_MARKET",
+      "TRAILING_STOP_MARKET"
+    ]
+  }
+}

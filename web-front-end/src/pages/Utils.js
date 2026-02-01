@@ -1,0 +1,1 @@
+export const FRONT_INTERVAL_FETCH = 2500;

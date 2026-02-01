@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "cd ./back-end && yarn start",
+    "deploy": ""
+  },
+  "dependencies": {
+    "binance-api-node": "^0.12.3",
+    "ccxt": "^2.9.16",
+    "dotenv": "^16.0.3",
+    "fetch-blob": "^3.2.0",
+    "gate-api": "^5.40.0",
+    "node-binance-api": "^0.13.1"
+  }
+}

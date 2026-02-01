@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfront_end=self.webpackChunkfront_end||[]).push([[350],{7350:function(n,e,r){r.r(e);var t=r(184);e.default=function(){return(0,t.jsx)(t.Fragment,{children:(0,t.jsx)("h1",{children:"Auto Grid"})})}}}]);
+//# sourceMappingURL=350.37d048a8.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfront_end=self.webpackChunkfront_end||[]).push([[275],{6275:function(n,e,r){r.r(e);r(72791);var t=r(80184);e.default=function(){return(0,t.jsx)(t.Fragment,{children:(0,t.jsx)("h1",{children:"Documnet Page"})})}}}]);
+//# sourceMappingURL=275.4484c6ba.chunk.js.map

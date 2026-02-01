@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/914.bf0cf3b3.chunk.js","mappings":"+HAQA,UARgB,WACd,OACE,+BACE,sCAGN,C","sources":["pages/Auto/AutoRSI.js"],"sourcesContent":["const AutoRSI = () => {\n  return (\n    <>\n      <h1>Auto RSI</h1>\n    </>\n  );\n};\n\nexport default AutoRSI;\n"],"names":[],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/687.951a4373.chunk.js","mappings":"kIAQA,UARuB,WACrB,OACE,+BACE,6CAGN,C","sources":["pages/Analysis/Binance/BinanceHeatmap.js"],"sourcesContent":["const BinanceHeatmap = () => {\n  return (\n    <>\n      <h1>Binance Heatmap</h1>\n    </>\n  );\n};\n\nexport default BinanceHeatmap;\n"],"names":[],"sourceRoot":""}

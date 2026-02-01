@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/275.4484c6ba.chunk.js","mappings":"0IAUA,UARa,WACX,OACE,+BACE,2CAGN,C","sources":["pages/Docs.js"],"sourcesContent":["import React from \"react\";\n\nconst Docs = () => {\n  return (\n    <>\n      <h1>Documnet Page</h1>\n    </>\n  );\n};\n\nexport default Docs;\n"],"names":[],"sourceRoot":""}

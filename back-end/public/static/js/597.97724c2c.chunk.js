@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfront_end=self.webpackChunkfront_end||[]).push([[597],{10597:function(n,e,r){r.r(e);var t=r(80184);e.default=function(){return(0,t.jsx)(t.Fragment,{children:(0,t.jsx)("h1",{children:"Auto Bollinger Band"})})}}}]);
+//# sourceMappingURL=597.97724c2c.chunk.js.map

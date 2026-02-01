@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/837.0829218e.chunk.js","mappings":"+HAQA,UARkB,WAChB,OACE,+BACE,wCAGN,C","sources":["pages/Manual/ManualDCA.js"],"sourcesContent":["const ManualDCA = () => {\n  return (\n    <>\n      <h1>Manual DCA</h1>\n    </>\n  );\n};\n\nexport default ManualDCA;\n"],"names":[],"sourceRoot":""}
