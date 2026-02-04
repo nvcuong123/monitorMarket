@@ -82,7 +82,7 @@ const adminAuthenticate = async (username, password) => {
   // console.log(nonce);
   const numSaltRounds = 8;
   const hashPasswod = await bcrypt.hash(password, numSaltRounds);
-  // console.log("client hash", hashPasswod);
+  console.log("client hash", hashPasswod);
 
   tradeOption.body = JSON.stringify({ username: username.trim(), hashPasswod });
   const data = window
