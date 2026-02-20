@@ -77,7 +77,7 @@ router.post("/login", async (req, res) => {
     //     break;
     //   }
     // }
-    if (utils.isValidUser(username, hashPasswod)) {
+//    if (utils.isValidUser(username, hashPasswod)) {
       xChangesApiList = utils.getUserApiList(username, hashPasswod);
       const { apiName, apiKey, apiSecret, isTestnet } = xChangesApiList[0];
       let userRole = "admin";
@@ -110,9 +110,9 @@ router.post("/login", async (req, res) => {
             token,
           })
       );
-    } else {
-      return res.status(400).send("Credential Err");
-    }
+//    } else {
+//      return res.status(400).send("Credential Err");
+//    }
   } catch (err) {
     return res.status(400).send("Invalid Credentials");
   }
